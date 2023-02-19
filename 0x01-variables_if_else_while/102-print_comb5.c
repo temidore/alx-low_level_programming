@@ -1,4 +1,4 @@
-i#include <stdio.h>
+#include <stdio.h>
 /**
  * main - Prints all possible combinations of a pair of
  * two digit numbers, without any repetition.
